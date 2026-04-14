@@ -1,4 +1,4 @@
-# Hi everyone!👋 My name is Jaemin Son.😊
+# Hi everyone!👋 My name is Jaemin Son😊
 
 
 Here are some informations about me😉:
