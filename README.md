@@ -1,7 +1,5 @@
 # Hi everyone!👋 My name is Jaemin Son.😊
 
-<!--
-**sjmn-zip/sjmn-zip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some informations about me😉:
 - 🌊 I was born in Busan and currently live in Seoul for my studies.
@@ -13,5 +11,4 @@ Here are some informations about me😉:
  **Let's make the wonderful project together!!👌**
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+
