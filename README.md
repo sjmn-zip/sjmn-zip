@@ -7,7 +7,7 @@ Here are some informations about me😉:
 - 💻 My major is **Industrial Engineering - ITM** (IT Management).
 - 🌱 I’m currently learning Statistics, Economics, Java, Python, Database(SQL)
 - 📫 How to reach me: 📧jaeminson20@naver.com
-- 🏎️ My hobby is watching movie and ⚾ watching baseball(** Big Fan of Lotte Giants! **)
+- 🏎️ My hobby is watching movie and ⚾ watching baseball(**Big Fan of Lotte Giants!**)
  **Let's make the wonderful project together!!👌**
 
 
