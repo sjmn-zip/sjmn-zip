@@ -19,7 +19,7 @@ Here are some informations about me😉:
 
 
 
-- 🏎️ My hobby is watching movie and ⚾ watching baseball(**Big Fan of Lotte Giants!**)
+- 🏎️ My hobby is watching F1 and ⚾ watching baseball(**Big Fan of Lotte Giants!**)
 
 
 
