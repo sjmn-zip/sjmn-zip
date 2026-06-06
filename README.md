@@ -9,11 +9,7 @@ Here are some informations about me😉:
 
  
 
-- 🎓 I'm a sophomore at **SeoulTech** (Seoul National University of Science and Technology).
-
-
-
-- 💻 My major is **Industrial Engineering - ITM** (IT Management).
+- 🎓 I'm a sophomore at **SeoulTech** (Seoul National University of Science and Technology) - 💻**Industrial Engineering - ITM** (IT Management).
 
 
 
