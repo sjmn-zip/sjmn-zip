@@ -1,12 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hi,%20I'm%20Jaemin&fontSize=55&fontColor=ffffff&desc=Data%20Science%20%26%20AI%20Platform%20Developer&descSize=20&descAlignY=64&animation=fadeIn)
 
-<div align="center">
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=764BA2&center=true&vCenter=true&width=550&lines=Industrial+IT+Major+%40+SeoulTech;Data+Science+%26+AI+Developer;Always+exploring+new+paths)](https://git.io/typing-svg)
+# Hi, I'm Jaemin 👋
 
-![visitors](https://komarev.com/ghpvc/?username=sjmn-zip&color=764ba2&style=flat-square&label=Profile+Views)
+**Industrial IT (ITM) Major | Aspiring Data Scientist & AI Platform Developer**
+
+A student exploring data science and AI-driven platform development.
 
 </div>
+
 
 ---
 
