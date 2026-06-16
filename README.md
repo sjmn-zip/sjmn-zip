@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:002955,100:ED1C24&height=200&section=header&text=Jaemin&fontSize=70&fontColor=ffffff&desc=Data%20Science%20%26%20AI%20Platform%20Developer&descSize=18&descAlignY=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:002955,100:ED1C24&height=220&section=header&text=Jaemin's%20Space&fontSize=60&fontColor=ffffff&desc=Data%20Science%20%26%20AI%20Platform%20Developer&descSize=20&descAlignY=64&animation=fadeIn)
 
 <div align="center">
 
