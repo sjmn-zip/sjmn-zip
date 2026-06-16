@@ -43,7 +43,6 @@ Rather than locking myself into one path, I'm figuring out my direction by build
 
 ## 🔗 Links
 
-<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sjmn-zip)
 [![Notion](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://coral-vertebra-413.notion.site/Daon-3816e89c3cfa815b9c2ff663c51a9f01)
@@ -57,7 +56,6 @@ Rather than locking myself into one path, I'm figuring out my direction by build
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sjmn-zip&show_icons=true&theme=tokyonight&hide_border=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjmn-zip&layout=compact&theme=tokyonight&hide_border=true)
