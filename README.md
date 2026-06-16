@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&duration=4000&pause=1000&color=ED1C24&background=00000000&center=true&vCenter=true&width=700&height=100&lines=Hi%2C+I'm+Jaemin+%F0%9F%91%8B" alt="title" />
-
-### `Industrial IT (ITM) Major | Data Science & AI Platform Developer`
-
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=002955&center=true&vCenter=true&width=550&lines=Industrial+IT+Major+%40+SeoulTech;Data+Science+%26+AI+Developer;Lotte+Giants+Fan+Forever+%E2%9A%BE)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:002955,100:ED1C24&height=220&section=header&text=Hi,%20I'm%20Jaemin&fontSize=55&fontColor=ffffff&desc=Data%20Science%20%26%20AI%20Platform%20Developer&descSize=20&descAlignY=64&animation=fadeIn)
 
 ![visitors](https://komarev.com/ghpvc/?username=sjmn-zip&color=002955&style=flat-square&label=Profile+Views)
 
