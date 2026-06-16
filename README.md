@@ -2,11 +2,23 @@
 
 # Hi, I'm Jaemin 👋
 
-**(ITM) Major | Data Science & AI Platform Developer**
+**Industrial IT (ITM) Major | Aspiring Data Scientist & AI Platform Developer**
 
-
+A student exploring data science and AI-driven platform development.
 
 </div>
+
+---
+
+## 🎯 About Me
+
+I'm interested in the whole process — defining problems with data, and solving them with code.
+Rather than locking myself into one path, I'm figuring out my direction by building things.
+
+- 🔭 **What I'm doing** — Working with data in Java/Python/SQL, experimenting with AI services through small projects.
+- 🌱 **What I'm learning** — Building my foundation in data science, statistics, and databases.
+- 💡 **What I want to build** — AI-based platforms that *actually help people*, like career exploration and mental healthcare.
+- 🧭 **Still exploring** — Data analyst or AI developer? I enjoy the journey more than the conclusion.
 
 ---
 
@@ -14,9 +26,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[sjmn-zip])
-[![Notion](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Daon-3816e89c3cfa815b9c2ff663c51a9f01?source=copy_link))
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[jaeminson20@naver.com])
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sjmn-zip)
+[![Notion](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://[노션주소])
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[이메일주소])
 
 </div>
 
@@ -44,8 +56,8 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=[sjmn-zip]&show_icons=true&theme=tokyonight&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[sjmn-zip]&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=sjmn-zip&show_icons=true&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjmn-zip&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
