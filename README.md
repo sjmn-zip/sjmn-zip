@@ -1,3 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:002955,100:ED1C24&height=200&section=header&text=Jaemin&fontSize=70&fontColor=ffffff&desc=Data%20Science%20%26%20AI%20Platform%20Developer&descSize=18&descAlignY=62)
+
+<div align="center">
+
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ED1C24&center=true&vCenter=true&width=500&lines=Industrial+IT+Major+%40+SeoulTech;Data+Science+%26+AI+Developer;Lotte+Giants+Fan+Forever)](https://git.io/typing-svg)
+
+![visitors](https://komarev.com/ghpvc/?username=sjmn-zip&color=002955&style=flat-square)
+
+</div>
 <div align="center">
 
 # Hi, I'm Jaemin 👋
@@ -27,8 +36,8 @@ Rather than locking myself into one path, I'm figuring out my direction by build
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sjmn-zip)
-[![Notion](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://[노션주소])
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[이메일주소])
+[![Notion](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://coral-vertebra-413.notion.site/Daon-3816e89c3cfa815b9c2ff663c51a9f01)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[jaeminson20@naver.com])
 
 </div>
 
