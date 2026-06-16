@@ -36,7 +36,7 @@ Rather than locking myself into one path, I'm figuring out my direction by build
 `Learning`
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
 
 <br>
 
