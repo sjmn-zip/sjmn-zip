@@ -45,7 +45,6 @@ Rather than locking myself into one path, I'm figuring out my direction by build
 `Editor & VCS`
 
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?logo=google&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
