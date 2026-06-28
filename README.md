@@ -58,7 +58,7 @@ Rather than locking myself into one path, I'm figuring out my direction by build
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sjmn-zip)
-[![Notion](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://coral-vertebra-413.notion.site/Daon-3816e89c3cfa815b9c2ff663c51a9f01)
+[![Notion](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://coral-vertebra-413.notion.site/Jaemin-s-Log-3816e89c3cfa8154b785f4c41c8436da)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaeminson20@naver.com)
 
 </div>
