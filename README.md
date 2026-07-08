@@ -65,12 +65,3 @@ Rather than locking myself into one path, I'm figuring out my direction by build
 
 ---
 
-
-
-## 📊 GitHub Stats
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sjmn-zip&show_icons=true&theme=tokyonight&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjmn-zip&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
