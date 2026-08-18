@@ -9,16 +9,6 @@ A student exploring data science and AI-driven platform development.
 </div>
 
 
----
-
-### 👋 About Me
-
-- 🎓 **What I'm learning** — Building my foundation in data science, statistics, and databases.
-- 💡 **What I want to build** — AI-based platforms that *actually help people*, like career exploration and mental healthcare.
-- 🧭 **Still exploring** — Data analyst or AI developer? I enjoy the journey more than the conclusion.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
