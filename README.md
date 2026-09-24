@@ -4,7 +4,7 @@
 
 **Industrial IT (ITM) Major | Aspiring Data Scientist & AI Platform Developer**
 
-A student exploring data science and AI-driven platform development.
+A student exploring data science.
 
 </div>
 
