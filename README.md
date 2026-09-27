@@ -1,13 +1,8 @@
-
-
 # Hi, I'm Jaemin 👋
 
 **Industrial IT (ITM) Major | Aspiring Data Scientist & AI Platform Developer**
 
 A student exploring data science.
-
-</div>
-
 
 ## 🛠️ Tech Stack
 
@@ -26,20 +21,15 @@ A student exploring data science.
 
 **Editor & VCS**
 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-**Docs**
-
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-
 ---
 
-## 🔗 Links
-
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white)](https://github.com/sjmn-zip)
-[![Blog](https://img.shields.io/badge/BLOG-000000?style=flat&logo=notion&logoColor=white)](https://coral-vertebra-413.notion.site/Jaemin-s-Log-3816e89c3cfa8154b785f4c41c8436da?pvs=74)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jaeminson20@naver.com)
+<a href="https://coral-vertebra-413.notion.site/Jaemin-s-Log-3816e89c3cfa8154b785f4c41c8436da">
+  <img src="https://img.shields.io/badge/Explore%20my%20archive-191919?style=for-the-badge&logo=notion&logoColor=white" alt="Explore my archive on Notion" width="100%">
+</a>
 
 
