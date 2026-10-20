@@ -3,10 +3,7 @@
 
 # Hi, I'm Jaemin 👋
 
-**Industrial IT (ITM) Major | Aspiring Data Scientist & AI Platform Developer**
-
-A student exploring data science.
-
+**Industrial IT (ITM) Major
 ## 🛠️ Tech Stack
 
 ### Languages
