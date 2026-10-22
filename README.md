@@ -2,8 +2,10 @@
 ---
 
 # Hi, I'm Jaemin 👋
-
-**Industrial IT (ITM) Major -SeoulTech**
+Hi, I'm Jaemin 👋
+-🎓 Industrial IT Management (ITM) — SeoulTech × Northumbria University Dual Degree (Feb 2023 ~ Expected Feb 2029)
+-🔭 Currently building Daon, a Korean emotion-aware chatbot
+-💬 Korean (Native) · Chinese (HSK 5) · English
 ## 🛠️ Tech Stack
 
 ### Languages
