@@ -4,6 +4,7 @@
 ## Hi, I'm Jaemin 👋
 
 ```python
+
 class Jaemin:
     def __init__(self):
         self.major     = "Industrial IT Management (ITM)"
@@ -11,6 +12,7 @@ class Jaemin:
         self.period    = "2023.02 ~ 2029.02 (Expected)"
         self.building  = "Daon — Korean emotion-aware chatbot"
         self.languages = ["Korean (Native)", "Chinese (HSK 5)", "English"]
+
 ```
 ---
 
