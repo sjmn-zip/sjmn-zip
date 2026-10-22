@@ -3,23 +3,20 @@
 
 ## Hi, I'm Jaemin 👋
 
-<table>
-  <tr>
-    <td align="center" width="130">🎓<br/><b>Education</b></td>
-    <td>
-      <b>Industrial IT Management (ITM)</b><br/>
-      <sub>SeoulTech × Northumbria University Dual Degree · Feb 2023 – Feb 2029 (Expected)</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">🔭<br/><b>Now</b></td>
-    <td>Building <a href="https://github.com/sjmn-zip/REPO_NAME"><b>Daon</b></a> — a Korean emotion-aware chatbot</td>
-  </tr>
-  <tr>
-    <td align="center">💬<br/><b>Languages</b></td>
-    <td>Korean <sub>(Native)</sub> · Chinese <sub>(HSK 5)</sub> · English</td>
-  </tr>
-</table>
+## Hi, I'm Jaemin 👋
+
+```python
+class Jaemin:
+    def __init__(self):
+        self.major     = "Industrial IT Management (ITM)"
+        self.school    = "SeoulTech × Northumbria University (Dual Degree)"
+        self.period    = "2023.02 ~ 2029.02 (Expected)"
+        self.building  = "Daon — Korean emotion-aware chatbot"
+        self.languages = ["Korean (Native)", "Chinese (HSK 5)", "English"]
+```
+---
+
+
 ## 🛠 Tech Stack
 
 **Languages**
