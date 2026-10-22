@@ -2,7 +2,6 @@
 ---
 
 # Hi, I'm Jaemin 👋
-Hi, I'm Jaemin 👋
 -🎓 Industrial IT Management (ITM) — SeoulTech × Northumbria University Dual Degree (Feb 2023 ~ Expected Feb 2029)
 
 -🔭 Currently building Daon, a Korean emotion-aware chatbot
