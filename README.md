@@ -3,7 +3,7 @@
 
 # Hi, I'm Jaemin 👋
 
-**Industrial IT (ITM) Major**
+**Industrial IT (ITM) Major - @SeoulTech**
 ## 🛠️ Tech Stack
 
 ### Languages
