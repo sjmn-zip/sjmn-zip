@@ -3,8 +3,6 @@
 
 ## Hi, I'm Jaemin 👋
 
-## Hi, I'm Jaemin 👋
-
 ```python
 class Jaemin:
     def __init__(self):
