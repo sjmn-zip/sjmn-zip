@@ -11,7 +11,7 @@ class Jaemin:
         self.school    = "SeoulTech × Northumbria University (Dual Degree)"
         self.period    = "2023.02 ~ 2029.02 (Expected)"
         self.building  = "Daon — Korean emotion-aware chatbot"
-        self.languages = ["Korean (Native)", "Chinese (HSK 5)", "English"]
+        self.languages = ["Korean (Native)", "Chinese (HSK 5 in 2022)", "English"]
 
 ```
 ---
