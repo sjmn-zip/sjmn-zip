@@ -17,10 +17,7 @@ class Jaemin:
 ---
 
 
-## 🛠 Tech Stack
-
-
-**Tools**
+## 🛠 Tools
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
