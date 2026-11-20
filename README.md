@@ -14,15 +14,3 @@ class Jaemin:
         self.languages = ["Korean (Native)", "Chinese (HSK 5 in 2022)", "English"]
 
 ```
----
-
-
-## 🛠 Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
----
-
-
